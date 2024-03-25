@@ -1,0 +1,177 @@
+{
+  "resources/css/app.scss": {
+    "file": "assets/app-d10272b3.css",
+    "isEntry": true,
+    "src": "resources/css/app.scss"
+  },
+  "resources/css/fonts/MuseoSans-300.eot": {
+    "file": "assets/MuseoSans-300-15475504.eot",
+    "src": "resources/css/fonts/MuseoSans-300.eot"
+  },
+  "resources/css/fonts/MuseoSans-300.ttf": {
+    "file": "assets/MuseoSans-300-654f1f8b.ttf",
+    "src": "resources/css/fonts/MuseoSans-300.ttf"
+  },
+  "resources/css/fonts/MuseoSans-300.woff": {
+    "file": "assets/MuseoSans-300-c3149b22.woff",
+    "src": "resources/css/fonts/MuseoSans-300.woff"
+  },
+  "resources/css/fonts/MuseoSans-300.woff2": {
+    "file": "assets/MuseoSans-300-dc759431.woff2",
+    "src": "resources/css/fonts/MuseoSans-300.woff2"
+  },
+  "resources/css/fonts/MuseoSans-700.eot": {
+    "file": "assets/MuseoSans-700-d44cc93a.eot",
+    "src": "resources/css/fonts/MuseoSans-700.eot"
+  },
+  "resources/css/fonts/MuseoSans-700.ttf": {
+    "file": "assets/MuseoSans-700-bf728de6.ttf",
+    "src": "resources/css/fonts/MuseoSans-700.ttf"
+  },
+  "resources/css/fonts/MuseoSans-700.woff": {
+    "file": "assets/MuseoSans-700-325ec618.woff",
+    "src": "resources/css/fonts/MuseoSans-700.woff"
+  },
+  "resources/css/fonts/MuseoSans-700.woff2": {
+    "file": "assets/MuseoSans-700-c262613a.woff2",
+    "src": "resources/css/fonts/MuseoSans-700.woff2"
+  },
+  "resources/css/fonts/MuseoSans-900.eot": {
+    "file": "assets/MuseoSans-900-03b6132a.eot",
+    "src": "resources/css/fonts/MuseoSans-900.eot"
+  },
+  "resources/css/fonts/MuseoSans-900.ttf": {
+    "file": "assets/MuseoSans-900-470dc1ed.ttf",
+    "src": "resources/css/fonts/MuseoSans-900.ttf"
+  },
+  "resources/css/fonts/MuseoSans-900.woff": {
+    "file": "assets/MuseoSans-900-2abcc6f9.woff",
+    "src": "resources/css/fonts/MuseoSans-900.woff"
+  },
+  "resources/css/fonts/MuseoSans-900.woff2": {
+    "file": "assets/MuseoSans-900-590e142f.woff2",
+    "src": "resources/css/fonts/MuseoSans-900.woff2"
+  },
+  "resources/css/fonts/brookline-condensed.eot": {
+    "file": "assets/brookline-condensed-3bd0ef22.eot",
+    "src": "resources/css/fonts/brookline-condensed.eot"
+  },
+  "resources/css/fonts/brookline-condensed.svg": {
+    "file": "assets/brookline-condensed-2828145c.svg",
+    "src": "resources/css/fonts/brookline-condensed.svg"
+  },
+  "resources/css/fonts/brookline-condensed.ttf": {
+    "file": "assets/brookline-condensed-370ca627.ttf",
+    "src": "resources/css/fonts/brookline-condensed.ttf"
+  },
+  "resources/css/fonts/brookline-condensed.woff": {
+    "file": "assets/brookline-condensed-d765afe8.woff",
+    "src": "resources/css/fonts/brookline-condensed.woff"
+  },
+  "resources/css/fonts/brookline-condensed.woff2": {
+    "file": "assets/brookline-condensed-7a11dd77.woff2",
+    "src": "resources/css/fonts/brookline-condensed.woff2"
+  },
+  "resources/css/fonts/fa-brands-400.eot": {
+    "file": "assets/fa-brands-400-ca1fcaf9.eot",
+    "src": "resources/css/fonts/fa-brands-400.eot"
+  },
+  "resources/css/fonts/fa-brands-400.svg": {
+    "file": "assets/fa-brands-400-4361dc61.svg",
+    "src": "resources/css/fonts/fa-brands-400.svg"
+  },
+  "resources/css/fonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400-dfd99d6f.ttf",
+    "src": "resources/css/fonts/fa-brands-400.ttf"
+  },
+  "resources/css/fonts/fa-brands-400.woff": {
+    "file": "assets/fa-brands-400-7921d463.woff",
+    "src": "resources/css/fonts/fa-brands-400.woff"
+  },
+  "resources/css/fonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400-554a6afb.woff2",
+    "src": "resources/css/fonts/fa-brands-400.woff2"
+  },
+  "resources/css/fonts/fa-light-300.eot": {
+    "file": "assets/fa-light-300-d2f059de.eot",
+    "src": "resources/css/fonts/fa-light-300.eot"
+  },
+  "resources/css/fonts/fa-light-300.svg": {
+    "file": "assets/fa-light-300-30629380.svg",
+    "src": "resources/css/fonts/fa-light-300.svg"
+  },
+  "resources/css/fonts/fa-light-300.ttf": {
+    "file": "assets/fa-light-300-d326994d.ttf",
+    "src": "resources/css/fonts/fa-light-300.ttf"
+  },
+  "resources/css/fonts/fa-light-300.woff": {
+    "file": "assets/fa-light-300-36ba22a7.woff",
+    "src": "resources/css/fonts/fa-light-300.woff"
+  },
+  "resources/css/fonts/fa-light-300.woff2": {
+    "file": "assets/fa-light-300-ecaf1bda.woff2",
+    "src": "resources/css/fonts/fa-light-300.woff2"
+  },
+  "resources/css/fonts/fa-regular-400.eot": {
+    "file": "assets/fa-regular-400-adca3d2e.eot",
+    "src": "resources/css/fonts/fa-regular-400.eot"
+  },
+  "resources/css/fonts/fa-regular-400.svg": {
+    "file": "assets/fa-regular-400-e6d6f131.svg",
+    "src": "resources/css/fonts/fa-regular-400.svg"
+  },
+  "resources/css/fonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400-778fd5af.ttf",
+    "src": "resources/css/fonts/fa-regular-400.ttf"
+  },
+  "resources/css/fonts/fa-regular-400.woff": {
+    "file": "assets/fa-regular-400-78c7466a.woff",
+    "src": "resources/css/fonts/fa-regular-400.woff"
+  },
+  "resources/css/fonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400-99c5e07f.woff2",
+    "src": "resources/css/fonts/fa-regular-400.woff2"
+  },
+  "resources/css/fonts/fa-solid-900.eot": {
+    "file": "assets/fa-solid-900-6ce29298.eot",
+    "src": "resources/css/fonts/fa-solid-900.eot"
+  },
+  "resources/css/fonts/fa-solid-900.svg": {
+    "file": "assets/fa-solid-900-8e231d6e.svg",
+    "src": "resources/css/fonts/fa-solid-900.svg"
+  },
+  "resources/css/fonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900-d1bdc5ff.ttf",
+    "src": "resources/css/fonts/fa-solid-900.ttf"
+  },
+  "resources/css/fonts/fa-solid-900.woff": {
+    "file": "assets/fa-solid-900-62cf58e7.woff",
+    "src": "resources/css/fonts/fa-solid-900.woff"
+  },
+  "resources/css/fonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900-fe529bb3.woff2",
+    "src": "resources/css/fonts/fa-solid-900.woff2"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-92c5e805.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "css": [
+      "assets/app-92c5e805.css"
+    ],
+    "file": "assets/app-e2431c4e.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/custom/store.js": {
+    "file": "assets/store-7e6bbe8d.js",
+    "isEntry": true,
+    "src": "resources/js/custom/store.js"
+  },
+  "resources/js/main.js": {
+    "file": "assets/main-21fcec68.js",
+    "isEntry": true,
+    "src": "resources/js/main.js"
+  }
+}
